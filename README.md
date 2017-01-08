@@ -20,8 +20,9 @@ There are 3 classes: MyBank.java (the main class) , Client.java and Server.java
 to run the program : 
 1- Run the main class;
 2- You have to enter the account number as an input to see the corresponding balance. 
-***[ The server’s database only contains the account numbers : 100 & 200 & 300 & 400 & 500]
+[ The server’s database only contains the account numbers : 100 & 200 & 300 & 400 & 500]
 3 - If you enter an invalid account number, there will be a respond says that your entered account number is incorrect.
 
 ##Sample Output:
+<img width="905" alt="a sample output" src="https://cloud.githubusercontent.com/assets/17988691/21747740/9e651f76-d53f-11e6-8c55-926247652c50.png">
 
